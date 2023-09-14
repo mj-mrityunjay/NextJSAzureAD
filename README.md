@@ -1,0 +1,2 @@
+# NextJSAzureAD
+Created with CodeSandbox
